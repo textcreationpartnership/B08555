@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Right Honourable, the Parliament of England Right Honourable, I once more the name of the most high God beseech you, to remove the old Earth and set up the new, as God hath ordained, by setting up the government among us, with the laws, the statutes, and judgements of God contained in the word; it being the alone foundation on which God will establish the nations which he hath now shaken, and is about to shake, when things shaken shall be removed ...</title>
+            <author>Brayne, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08555</idno>
+            <idno type="STC">Wing B4332A</idno>
+            <idno type="STC">ESTC R175577</idno>
+            <idno type="EEBO-CITATION">64550989</idno>
+            <idno type="OCLC">ocm 64550989</idno>
+            <idno type="VID">184386</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08555)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184386)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2862:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Right Honourable, the Parliament of England Right Honourable, I once more the name of the most high God beseech you, to remove the old Earth and set up the new, as God hath ordained, by setting up the government among us, with the laws, the statutes, and judgements of God contained in the word; it being the alone foundation on which God will establish the nations which he hath now shaken, and is about to shake, when things shaken shall be removed ...</title>
+                  <author>Brayne, John.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1651?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: John Brayne.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: upper margin cropped with slight loss of print.</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="dedication">
+            <pb n="1" facs="tcp:184386:1" rendition="simple:additions"/>
+            <head>TO THE Right Honourable, THE PARLIAMENT OF ENGLAND</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>I Once more in the name of the moſt high God beſeech you, to remove the old Earth, and ſet up the new, as God hath ordained, by ſet<g ref="char:EOLhyphen"/>ting up the Government among us, with the Laws, the Statutes, and Judgements of God contained in the Word; it being the alone foundation on which God will eſtabliſh the Nations which he hath now ſhaken, and is about to ſhake; when things ſhaken ſhall be remo<g ref="char:EOLhyphen"/>ved, that his Law and Rule which cannot be ſhaken may remain. Right Honorable, this only work ſaves the Nation from ruine, and preſently poſ<g ref="char:EOLhyphen"/>ſeſſeth this people of unſpeakable happineſſe, and puts an end to our Nation<g ref="char:EOLhyphen"/>all differences with God, and thoſe among our ſelves, and wi l make your memory precious to the Ages and Generations to come, and acquit you of your ſouls Vows to God; which tender I therefore renew, and humbly lay before you, becauſe Mr. <hi>R. Vaughan</hi> hath put up his Plea before you, for and in defence of that we call the Common Law; whereunto I return him the inſuing Anſwer, beſeeching you to judge between us, and that a liberty be granted to God, his Law and Cauſe to be pleaded before you at your Barr, againſt all humane Laws that ſtand in competition with it, that when you come to ſtand before his Bar, you may have his Law ſpeak for you, and not againſt you in that day, which is the unfained deſire of</p>
+            <closer>
+               <signed>Your affectionate ſervant in the witneſſe of the Lords truth, JOHN BRAYNE.</signed>
+            </closer>
+            <pb n="1" facs="tcp:184386:2"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:184386:3" rendition="simple:additions"/>
+            <head>To Mr. <hi>R. Vaughan</hi> of Grayes Inne.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>THe ingenuouſneſſe of your appeal to the Magiſtrate, in your An<g ref="char:EOLhyphen"/>ſwer to Mr. <hi>Peters</hi> Propoſalls, concerning the Law and its Reforma<g ref="char:EOLhyphen"/>tion, occaſioned theſe indigeſted lines, to let you know it is the cauſe of God, and to be deduced from the Word, by which the Teachers there<g ref="char:EOLhyphen"/>of are chiefly in the way of advice concerned therein, and Mr. <hi>Peters</hi> or my ſelfe come rightly to take cognizance thereof, equally with you, if not before you: Sir, the Lawyers of old addreſſed themſelves to the Divine Law of God, you to the humane Law of Heathens, which is too low to be pleaded for in theſe daies of light and profeſſion; eſpecially before the High Court of Parliament, who are bound to God to re<g ref="char:EOLhyphen"/>forme things according to the <hi>Magna Charta</hi> of God, and not of men; your Law is grounded only on the corrupted reaſon and judge<g ref="char:EOLhyphen"/>ments of rude men, this on the Will, Juſtice, and Holineſſe of God, the juſt meaſure and true tryall of actions, ſo that thoſe that judge by the one, and have the other, are lyable to the Judgement thereof, and thoſe onely that judge by it, free their ſouls from guilt and puniſhment: Sir, in your Epiſtle to the Parliament, the greateſt happineſſe you wiſh the Nation, is the continuance of the Common Law; is this wiſh of yours for your own Intereſt, or purely for the good of the Nation, if for the Nation, Sir think again, whether the Common-weal would be more happy in the Law of God, or in yours, it having ſo many precious pro<g ref="char:EOLhyphen"/>miſes of all temporall good, and deliverance from temporall evill, toge<g ref="char:EOLhyphen"/>ther with the protection of the Almighty God, which your Law hath nothing to do withall, but deprives the people thereof, and all elſe that can be called a peoples happineſſe: and for the lopping of the Law, you will find it is but loſt labour, God hath laid the Axe to the root thereof, as being corrupt therein, as well as in the branches, and the Scripture tells you, <hi>That every plant which the Father hath not plan<g ref="char:EOLhyphen"/>ted, ſhall be pulled up,</hi> which the Lawes and Governments of men are. Alas Sir! what is it to compare your Lawes with thoſe of other Nations, to keep them up, and to paſſe by the Divine Law of God, as if there were no ſuch thing in being; to the Law therefore, and the teſtimony that will deſtroy and condemne your Law, and it's Rule, your Law you ſay was not the Conquerors Dictate, yet it was the Dictate of corrupt men, and that it was not <hi>Lex Scripta,</hi> which was it's want and weakneſſe; the Morall Law of God was written with
+<pb facs="tcp:184386:3"/> his owne finger, your Law is a Law on wheeles, uncertaine and changeable, which you terme reaſon and conveniency, which are infi<g ref="char:EOLhyphen"/>nitely ſhort of the grounds of the Divine Law, to which every ſoule muſt ſubmit to every tittle, or be damned, but not ſo to yours, your Law you ſay hath loſt it's Face, it may be you mean it's Head, which Gods Law hath not, nor can it for ever; your Law, as other Popiſh trumpery, you ſay, is baptized with the name of the Common Law, this is owned for the Divine Law of God, whoſe Image and ſuperſcrip<g ref="char:EOLhyphen"/>tion of Holineſſe and Juſtice is ingravened thereon, and at laſt ſhall judge Law, Lawyers, and all men elſe; your Law is but almoſt a comprehenſive Rule and meaſure (as you ſay) but Gods altogether; Gods is the Rule and Meaſure, yours nor rule nor meaſure, for as he is one, ſo with him is but one Law which is his own: and for what the for<g ref="char:EOLhyphen"/>mer Parliament affirmed concernes not this, whoſe ſoules are under a Vow to God, to reform this State according to the Word, by which on<g ref="char:EOLhyphen"/>ly is to be produced the Nations Freedome, and the Peoples happineſſe, though it be granted that your Law hath the likeneſſe of gold in it, yet it is not Gold as the Law of God is, nor will it bear the purifying once a<g ref="char:EOLhyphen"/>lone, much leſſe ſeven times ſeven, but like droſſe it conſumes before the fire comes near it, of which, you have not feared to ſay as much as God hath ſaid for his own eternall truth, without any ground or warrant; which as fire will ſpeedily devour the droſſe, and corruption of the Nations their Laws and Governments.</p>
+            <p>For your Epiſtle to Mr. <hi>Peters,</hi> I doubt not but he will ſufficiently re<g ref="char:EOLhyphen"/>turne you a ſeaſonable anſwer to it, onely in generall I obſerve you in your expreſſions to be extremely differing from your ſelfe, and him, one whiles as with kiſſes you ſpeak him fair, and anone as a foe you uſe con<g ref="char:EOLhyphen"/>tumelies and debaſements, as of one illiterate, rude, irtationall, preju<g ref="char:EOLhyphen"/>dicate in his Opinion, and raſh in judgement, which I only mention to prevent offences between you for the future, being men have ingaged, (as you ſay) in the ſame cauſe, which proves offenſive to your ſelfe and o<g ref="char:EOLhyphen"/>thers, being in your writings but as unſavoury ſalt.</p>
+            <p>Sir, For the retreat of all good things it is to God, his power, ſafety, and being, whence things that are good and juſt did proceed: now if God protects yours, he muſt decline his owne, if he protect his owne, he muſt deſtroy yours, for there can be no more two Lawes with God, then two Gods; yours therefore cannot retreat to this ſafety, becauſe it is none of his, but as <hi>Moſes</hi> Serpent eat up the Sorcerers, ſo will Gods Law eat up yours; for as there is but one God, ſo there is but one authorized Law of his, his came out from him, yours from men like your ſelfe, which bears their ſuperſcrip<g ref="char:EOLhyphen"/>tion, and hath their Image of lightneſſe, corruption and vanity ingra<g ref="char:EOLhyphen"/>ven on it.</p>
+            <div type="part">
+               <head>In your Introduction.</head>
+               <p>You condemn the peoples lightneſſe in too ſoon believing and being lead
+<pb facs="tcp:184386:4"/> of men, which is truth, they looking to customs and antiquitys to the neg<g ref="char:EOLhyphen"/>lecting of Gods truth and verity, the traditions of men having for a long time made void the Laws of God: Sir, you ſay what Mr. <hi>Peters</hi> wrote was as the <hi>Tohu vabohu</hi> in the Creation, which yet did appertain to the Creation of God, and God gave being to that, but not to your Law, which is part of the old earth that is ſhortly to be removed, <hi>Rev.</hi> 21.1. And whereas you ſay, the plain honeſt man knows not the Law, I think it's clear, nor you, nor thoſe that have ſtudied them longeſt know them not, nor is there any Priviledge to the Nation by them, but is that thing this day ſtands between them &amp; their Priviledges, which is the divine Law and Communion with their God, mens being in place thereof, your Laws, Foundations, and Inſtitutions, had their being from the corrupted reaſon of the Heathen, which you ſay is not inconſi<g ref="char:EOLhyphen"/>ſtent with right reaſon and Scripture, whoſe proceedings, Laws and puniſh<g ref="char:EOLhyphen"/>ment infinitely differ from that commanded of God, which being proved by your moſt ingenuous Confeſſion; and as you ſay by the judgement of all Lawyers, is to be caſheer'd out of their very countenance as an excrementi<g ref="char:EOLhyphen"/>tious thing, obſolet and uſeleſſe, to hear which from your ſelf, makes me ad<g ref="char:EOLhyphen"/>mire &amp; wonder at the progreſſe truth hath made among men, which I hope Sir was no rude nor ſuddain conception in you, but the beſt, which like a good Orator at laſt you offer at the feet of Authority, as the thing that is moſt worthy to be taken up and judged by them, and as the only cauſe of God and the Nation your writing to Mr. <hi>Peters Legentem oportet credere,</hi> hath joyned with it very amphibologicall termes, where you charge him with this fault, that he hints little of Scripture: I hope the motion for a Government and Law that is altogether contained therein, will find a placid acceptation with you, and all love God in truth, which are not <hi>placita principum,</hi> nor <hi>clericorum</hi> neither, your preferring your Law before all Law in the world, is very unjuſtifiable, whiles the Law of God remains therein, whoſe deſcent is from God and heaven, and not from men and earth as yours is; and as for the continuance of your Law, you know that the Kingdome of God by the Kings of the world, and the Church by the power of Antichriſt have of a long time lain deſolate, your ſelf acknowledge your law to be chaffey, who yet ſeeth not as God ſees what is chaff therein, you deſire to have the cor<g ref="char:EOLhyphen"/>ruption of the Law to be deſtroy'd, in whoſe very foundation the pure eyes of the righteous God ſeeth nothing elſe but corruption it ſelf, which God in the fire of his Zeal will conſume and deſtroy, your preſumption of Mr. <hi>Peters</hi> is <hi>viz.</hi> that if he were acquainted with your Law and it's principles, &amp;c. the beſt whereof are but reaſon and experiences, which he is capable of as other men, but of the worſt thereof, he and my ſelf are ignorant and all; except the men that profeſſe it, to whom for my part I leave them, as that that hath not long to live; and to ſay in this, Mr, <hi>Peters</hi> medled out of his calling, being a Law Witneſſe. (1.) If any have a call, he hath one to do what he did. (2.) I know not that God made it a call or trading to plead his Law, every man being to be a Lawyer, and to know that Law, by which he was to live, and in caſe of offence to be judged by it, who from their in<g ref="char:EOLhyphen"/>fancy were to be brought up in the knowledge of it, ſo that you can never
+<pb facs="tcp:184386:4"/> prove that the diſpoſition and ſteerage of aff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctions, makes a ſufficient call in an unwarrantable practiſe: and if the Law, as you ſay, be a common Birth-right, any man in deſiring the beſt Law, cannot be ſaid to be abroad, and not at home, you ſay, <hi>facile eſt inventis addere,</hi> which proves your Laws imperfection, and the perfection of Gods is proved in this, that nothing is to be added thereunto; the good, if any be in yours, is ſwallowed up in this, becauſe it is far better; and by this you ſee it is not warrantable to offer a<g ref="char:EOLhyphen"/>ny thing that is new, but what only is in the Word; and whereas you, be<g ref="char:EOLhyphen"/>cauſe a Profeſſor will not plead for your own Law, I therefore becauſe I profeſſe this plead for it, which ſhould I not do, were in ſome kind to deny it, and betray it, which I fear to do, and whereas you will ſit under the ſen<g ref="char:EOLhyphen"/>tence of men, you and I muſt dwell and lie for ever under the Majeſty and the ſentence of the Law and Judgement of God, and cannot avoid it; and it is eaſier to kick againſt the pricks, then to oppoſe in word or writing a<g ref="char:EOLhyphen"/>gainſt the Royall Law of the eternall and mighty God, the wounds of con<g ref="char:EOLhyphen"/>ſcience being moſt unſufferable to a creature.</p>
+               <p>In your anſwer to his Propoſalls, you ſay, he hath ſpoke all and more then he knows, which is very much to be done in ſo few words and little paper, yet indeed a man in a little that is not good, may know ſo much, that he de<g ref="char:EOLhyphen"/>ſires to know no more: now that there were Regiſters or Scribes belong<g ref="char:EOLhyphen"/>ing to every place of Judicature in the Jews Republike is clear, which I think Mr. <hi>Peters</hi> means, whoſe book I have not read, in which place of Ju<g ref="char:EOLhyphen"/>dicature ſat daily two Judges, to expedit Juſtice, and avoid delaies of cau<g ref="char:EOLhyphen"/>ſes, which Judges were choſen by the people by many notes of integrity, which people had firſt covenanted with God in the way of the Law, the Judges Power under God was not arbitrary, but confined to the revealed Law of God, from which they were not to decline, either to the right hand, or to the left, from whom in clear caſes was no appeale; and with Mr. <hi>Peters</hi> I ſay, the happineſſe of Government lieth not in hu<g ref="char:EOLhyphen"/>mane Laws, as we ſee by experience, but good men, when they ſee to the executing of them: And with your ſelf there muſt be good Laws (<hi>viz.</hi> Gods,) or good men in Authority will do but little good, when good men live under the command of them, as well to execute it's puniſhments, as to do it's other Injunctions.</p>
+               <p>To <hi>P.</hi> 6. When this Republike is made agreeable to that of the Jews, which I am bold to ſay, will be not only entailes, but the bottom and being of things will moſt certainly be ſtrangely altred, changed, or removed; and it is the will of God, that the firſt born, whether Male or Female, ſhould have a double portion.</p>
+               <p>
+                  <hi>P.</hi> 7. You allow that the Moralls and Judicialls of <hi>Moſes</hi> are the beſt Laws, yea, you ſay all honeſt and juſt Lawyers concur therein, and it were very ſtrange if they ſhould not, the act it ſelf of denying it were to make them unhoneſt and unjuſt both, but if ſo, what weakneſſe is it in the people, yea, what wickedneſſe to refuſe that, for any other whatſoever, it being a ſtrange exorbitancy, for men to live by Gods Law, and be judged by mans, which is againſt God, his Law, and People diverſly.</p>
+               <pb facs="tcp:184386:5"/>
+               <p>But ſay you there is not an expreſſe rule in the Moralls and Judicialls of <hi>Moſes,</hi> for every particular occurring contingent caſe that happens.</p>
+               <p n="1">1. Which to affirm, is to deſtroy the glory and perfection of the Word of God, and to queſtion and diſpute his wiſdome, who would rule by an unſuf<g ref="char:EOLhyphen"/>ficient Law over men.</p>
+               <p n="2">2. The prohibition of not adding nor diminiſhing, had been but the peoples ſtraightning and deſtroying of their well-being, and God would have given them liberty in this, as any other thing, if it had been neceſſary for them.</p>
+               <p n="3">3. The Jews were as numerous as this people were, and as corrupt as o<g ref="char:EOLhyphen"/>thers, ſo that that which was made to ſerve them well, as well ſerve this Re<g ref="char:EOLhyphen"/>publike, or any elſe, for the Law was indefinitely made for all offenders, as 1 <hi>Tim.</hi> 1.9.10.</p>
+               <p n="4">4. The vaſt capacity of the Law is not known to us, becauſe not looked into, which appears in Gods binding men only thereunto.</p>
+               <p n="5">5 Let but the Nation be ſet in the Jews Common weal form, and I doubt not but by the aſſiſtance of God, to ſhew how any uſuall cauſe may be judged, that can ariſe in difference between man and man, and moſt ſuch alſo as are unuſuall, moſt certain it is, all are in a more juſt way decided there, then in all the Laws of the world they are or can be.</p>
+               <p>
+                  <hi>P.</hi> 8. You diſtinguiſh between politike reaſon and it's Laws, and naturall reaſon and it's.</p>
+               <p>Queſtion may be where without an Injunction Royal of God, reaſon hath the force of a Law, among the people that have the Law of God by them, who thereby are not left to reaſon, God ſaying of men having their own Laws only, that they were without Law.</p>
+               <p>
+                  <hi>P.</hi> 9. You plead for the being of Lawyers, which indeed every man ſhould be, and were of old, that could read and expound the Divine Law, but that any pleaded it before the Judges, or that had fees for ſo doing, and made a profeſſion of it, as now, is not expreſſed in the Word, nor was it ſo among our ſelves, by the firſt Advocates of your own Law.</p>
+               <p>
+                  <hi>P.</hi> 10. That we have need of a Law is moſt certain, and as certain it is, that we need no other but the Law of God, by vvhich nor Lavvyers not Judges can do Injuſtice.</p>
+               <p>And for vvills and Teſtaments, if men diſpoſe of their eſtates according to God, they are uſeleſſe, the eldeſt being to have double, and the reſt an e<g ref="char:EOLhyphen"/>qual portion, the widdow firſt provided for, for which dividers were by au<g ref="char:EOLhyphen"/>thority appointed to make a ſpeedy diviſion, and ſo all needleſſe ſuits of Law prevented, and cauſes of complaint and envy moſt vviſely aboliſhed, by the direction of the moſt juſt God, &amp; that unjuſt making one rich and proud, &amp; all the other poor, though ſuch oft times as vvere far better then the Heir be<g ref="char:EOLhyphen"/>fore God, comes by this diſtribution to be annihilated to the common good, and benefit of all the other iſſue of men in the Nation, and the good of love and unity continued hereby among brethren.</p>
+               <p>
+                  <hi>P.</hi> 11.12. For the Records this: if this Nation ever receive the Rule of God, and his Lavvs to be governed by them, men vvill ſee there is no need of preſerving them: The age now in being wil do by them, ruling by Gods Law, as thoſe vvith their books of curious Arts ruled by the Goſpell, <hi>Acts</hi> 19.19.</p>
+               <pb n="7" facs="tcp:184386:5"/>
+               <p>
+                  <hi>P.</hi> 13.14. As for impriſonments, I beſeech you ſee the freedome of the Government of God; by which Law none was to be impriſoned longer then the time of the determining of his cauſe, which was immediately to be heard and decided, if the caſe appeared clear.</p>
+               <p>
+                  <hi>P.</hi> 16. What is ſpoken of taking away the gray headed errors of the Law, and it's extuberances, that they may be expunged; time wil tel you and it will prove moſt true, that you will begin to purge the Law, untill you have pur<g ref="char:EOLhyphen"/>ged Law and all away; and it is moſt certain, the Law never in all the ages it, ever run in, met with ſuch like contingencies as at this day it hath, and every day it is like to do.</p>
+               <p>
+                  <hi>P.</hi> 17. The Law and Juſtice of God is above all men, becauſe not made by men, but it is not ſo in humane Laws and Rule, becauſe they make their Laws as God made his; and truly whiles one place hath more priviledges then another, it appears not to <hi>me</hi> how there can be a Common-weal.</p>
+               <p>That by the Law of God, in Cities, or other eminent places, there were to be Judges, to ſee Juſtice done to the people, is clear, and that in difficult caſes, ſome of the moſt eminently gifted of the Nation, were appointed to be conſulted vvith by the Judges that underſtood them not, by vvhich Juſtice ran like a ſtreame by every mans door, vvhen Tryalls vvere to be decided e<g ref="char:EOLhyphen"/>very day, not every half a year, and ſo the cauſe of impriſonment prevented, and vvhereas you ſay, <hi>fruſtra fit per plura quod fieri poteſt per pauciora,</hi> it holds true indeed; for if the Lavv of God be ſufficient to rule a people, vvhat need is there of mans.</p>
+               <p>
+                  <hi>P.</hi> 19. Is ſpoken of Miniſters propoſing for themſelves, I hope if men ſeek the advance of Gods Lavv and Rule, they propoſe not for themſelves, but God, vvhich all ought to do, and to deny themſelves if they vvill fol<g ref="char:EOLhyphen"/>lovv Chriſt! O hovv much better is it to conſult vvith the Lavv and Teſti<g ref="char:EOLhyphen"/>money, then vvith fleſh and bloud, men and learning, reaſon and experi<g ref="char:EOLhyphen"/>ences.</p>
+               <p>
+                  <hi>P.</hi> 20. That the Teſtimoney of Witneſſes in Judicature, was to be gi<g ref="char:EOLhyphen"/>ven by Oath, is apparent in Scripture, and is part of the Divine Law and worſhip of God, ſo that men ought not to come againſt their neighbor, but in this way, <hi>viva voce.</hi>
+               </p>
+               <p>As for the puniſhment of Witneſſes and Judges that are corrupt, it is ex<g ref="char:EOLhyphen"/>preſſely ſet down in Scripture, and proviſion made to prevent it, or to find it out.</p>
+               <p>
+                  <hi>P.</hi> 22. The Law of the Land ſets down puniſhments, for offences com<g ref="char:EOLhyphen"/>mitted againſt the Light of Nature, but the queſtion is,</p>
+               <p n="1">1. Where the puniſhments are agreeable to the nature of the offence, if not, how then can they be juſt.</p>
+               <p n="2">2. If agreeable to the Word, if not, how can it be warrantable to put them in execution.</p>
+               <p>As for pardoning of offenders, if men aſſent to the Divine Law, and covenant with God to obſerve it, and after break the ſame.</p>
+               <p n="1">1. They are then under the Law, and by the Law either they ought to live or die.</p>
+               <p n="2">2. To ſave any, the Law condemns, is not in mans power, who is made
+<pb n="8" facs="tcp:184386:6"/> under the Law, and not over it, who are not to diſpenſe with it's com<g ref="char:EOLhyphen"/>mands in any kind, he being to be a doer, and not a Judge of the Law, <hi>James</hi> 4.11. <hi>Luke</hi> 19.27. concernes the age we live in more then an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, in which the end of ſuch as reject the Dominion of Chriſt is held forth <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o us, that we draw not deſtruction on our ſelves and ours.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>SEt up the Standard of reaſon, experience, equity, policy, profit, &amp;c.</p>
+            <p>And put in into one ſcale the Law of God, and in the other your humane Law, purified, lopped, and amended, and I'le tell you, yea God himſelf, Angells and Saints ſhall witneſſe it, it wil be leſſe then nothing to it, and lighter then vanity.</p>
+            <p>Sir, I have written this only to diſcharge my con<g ref="char:EOLhyphen"/>ſcience herein, and that I may prevent my deſtruction from God, which for my ſilence would ſeize on me; I yet now look for ruine on my ſelf and Family, for witneſſing to the Truth of God from the world, ſo that a woe is to me if I witneſſe not to the Truth, and woe is to me if I witneſſe to it my unworthineſſe, to hold forth the truth, only wounds me, which the Lord pardon, and you and the world paſſe by, and I ſhall be a debter to you, and all, being worſe then the worſt of men, and an unworthy Witneſſe of the Truth of the great God;</p>
+            <closer>
+               <signed>John Brayne.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
